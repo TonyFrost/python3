@@ -14,7 +14,7 @@ print("host number is: \n >")
 print(host)
 print("port number is: \n >")
 print(port)
-print("###############################################################")
+print("###################################################################")
 
 while not quit:
 	try:
